@@ -1,5 +1,5 @@
 # Predicting and Classifying Terrorism Incidents
----
+
 This project utilizes machine learning techniques to analyze and predict global terrorism incidents using Python and Scikit-Learn.
 
 ## Project Overview
